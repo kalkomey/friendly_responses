@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kalkomey/friendly_responses.svg?branch=master)](https://travis-ci.org/kalkomey/friendly_responses)
+
 # friendly-responses
 
 Provides friendly responses for validation and server errors to RESTful Rails JSON APIs.
